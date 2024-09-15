@@ -42,3 +42,25 @@ var listOfFreeEquipment: String = "50"
 
 val planInCaseOfFailures: String = "План мероприятия на случай сбоев"
 
+var juriList: String = ""
+
+lateinit var mealSchedule: String
+
+val feedbackCheck: String by lazy { "" }
+
+val privacyPolicy: String = ""
+
+val feedback: String by lazy { "" }
+
+var temperatureIndoor: Int = 10
+
+var lumensLevel: Int = 600
+
+private var log: String = ""
+
+private var safety: String = ""
+
+val number: Int = 1512
+
+val dicebellMax: Int = 100
+
