@@ -2,7 +2,7 @@ package com.vpahovich.kotlincourse.lesson8
 
 fun main (){
 
-print (homework4())
+print (homework())
     }
 
 //fun convert (string: String): String {
