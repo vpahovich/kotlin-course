@@ -8,7 +8,7 @@ fun main() {
         collection.isEmpty(),
         collection.isNotEmpty(),
         collection.getOrElse(1) { 13 },
-        collection.joinToString { "" },
+        collection.joinToString (""),
         collection.sum(),
         collection.average(),
         collection.max(),
